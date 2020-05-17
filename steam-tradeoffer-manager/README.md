@@ -1,5 +1,5 @@
 # Added support to detect if a canceled offer arrived.
-Only modified the polling.js at line #11 #243 #244 #245 #273
+Only modified the lib/polling.js at line #11 #243 #244 #245 #273
 
 
 # Steam Trade Offer Manager for Node.js
