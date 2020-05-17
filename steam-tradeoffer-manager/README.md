@@ -1,3 +1,6 @@
+# Added support to detect if a canceled offer arrived.
+
+
 # Steam Trade Offer Manager for Node.js
 [![npm version](https://img.shields.io/npm/v/steam-tradeoffer-manager.svg)](https://npmjs.com/package/steam-tradeoffer-manager)
 [![npm downloads](https://img.shields.io/npm/dm/steam-tradeoffer-manager.svg)](https://npmjs.com/package/steam-tradeoffer-manager)
